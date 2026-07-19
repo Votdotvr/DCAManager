@@ -1,6 +1,6 @@
 # DCA Manager
 
-![Banner](https://raw.githubusercontent.com/Votdotvr/Photos/640c24dd8ec638f6658b754bf655e6be01ed64c0/DCAManager.png?token=CE5KCE3H3VOQP3S5JLA5IS3KLVOFC)
+![Banner](https://github.com/Votdotvr/Photos/blob/main/DCAManager.png?raw=true)
 
 DCA Manager is a free, open‑source mod management tool for any game.  
 It lets you add, remove, enable, disable, and organize mods with a simple UI.
