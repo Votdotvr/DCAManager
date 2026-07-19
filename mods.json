@@ -1,0 +1,10 @@
+{
+    "mods": [
+        {
+            "name": "Syrlith",
+            "path": "C:/Program Files (x86)/Steam/steamapps/common/Gorilla Tag/BepInEx/plugins/Seralyth-Menu.dll",
+            "pathgame": "C:/Program Files (x86)/Steam/steamapps/common/Gorilla Tag/BepInEx/plugins",
+            "enabled": true
+        }
+    ]
+}
